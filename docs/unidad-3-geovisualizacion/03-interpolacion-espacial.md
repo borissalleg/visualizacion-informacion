@@ -1,5 +1,10 @@
 ## Interpolación espacial
 
+**Ejemplo IDW:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-3/05_idw_interpolacion.ipynb)
+&nbsp; **Ejemplo Kriging:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-3/06_kriging_interpolacion.ipynb)
+
 > ### Objetivos de aprendizaje
 > Al finalizar este subtema, el estudiante será capaz de:
 >

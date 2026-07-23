@@ -1,5 +1,7 @@
 ## Visualización dinámica de datos
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-1/04_dashboard_tiempo_real.ipynb)
+
 > ### Objetivos de aprendizaje
 > Al finalizar este subtema, el estudiante será capaz de:
 >

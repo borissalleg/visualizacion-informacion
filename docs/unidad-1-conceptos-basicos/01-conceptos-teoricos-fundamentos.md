@@ -1,5 +1,10 @@
 ## Conceptos teóricos y fundamentos
 
+**Ejemplo 1:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-1/01_comparacion_canales_visuales.ipynb)
+&nbsp; **Ejemplo 2:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-1/02_data_ink_ratio.ipynb)
+
 > ### Objetivos de aprendizaje
 > Al finalizar este subtema, el estudiante será capaz de:
 >

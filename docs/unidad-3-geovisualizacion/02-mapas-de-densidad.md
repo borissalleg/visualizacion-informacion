@@ -1,5 +1,10 @@
 ## Mapas de densidad
 
+**Ejemplo Folium:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-3/03_mapa_densidad_folium.ipynb)
+&nbsp; **Ejemplo Seaborn KDE:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-3/04_kde_densidad_seaborn.ipynb)
+
 > ### Objetivos de aprendizaje
 > Al finalizar este subtema, el estudiante será capaz de:
 >

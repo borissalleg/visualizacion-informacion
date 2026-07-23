@@ -1,5 +1,7 @@
 ## Visualización y acceso público
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-2/02_exportar_grafico_html.ipynb)
+
 > ### Objetivos de aprendizaje
 > Al finalizar este subtema, el estudiante será capaz de:
 >

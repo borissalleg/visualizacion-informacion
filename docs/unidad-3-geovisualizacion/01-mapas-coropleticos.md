@@ -1,5 +1,10 @@
 ## Mapas coropléticos
 
+**Ejemplo Plotly:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-3/01_mapa_coropletico_plotly.ipynb)
+&nbsp; **Ejemplo GeoPandas:**
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borissalleg/visualizacion-informacion/blob/main/examples/unidad-3/02_mapa_coropletico_geopandas.ipynb)
+
 > ### Objetivos de aprendizaje
 > Al finalizar este subtema, el estudiante será capaz de:
 >

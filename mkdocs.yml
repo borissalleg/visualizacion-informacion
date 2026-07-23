@@ -3,14 +3,15 @@ site_description: >-
   Material del curso "Visualización de Información" - Especialización en
   Analítica y Big Data, IUDigital de Antioquia.
 site_author: IUDigital de Antioquia
+site_url: https://borissalleg.github.io/visualizacion-informacion/
 copyright: >-
   &copy; 2026 IUDigital de Antioquia - Especialización en Analítica y Big Data
 
 # ---------------------------------------------------------------------------
-# Repositorio (ajustar cuando se cree el remoto en GitHub)
+# Repositorio
 # ---------------------------------------------------------------------------
-repo_name: iudigital/visualizacion-informacion
-repo_url: https://github.com/iudigital/visualizacion-informacion
+repo_name: borissalleg/visualizacion-informacion
+repo_url: https://github.com/borissalleg/visualizacion-informacion
 edit_uri: edit/main/docs/
 
 # ---------------------------------------------------------------------------

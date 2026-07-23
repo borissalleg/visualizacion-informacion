@@ -96,5 +96,4 @@ dejándolo disponible en `https://<usuario-o-organizacion>.github.io/visualizaci
 
 ## Licencia y autoría
 
-Material desarrollado para fines académicos en el marco de la Especialización en
-Analítica y Big Data de IUDigital de Antioquia.
+Material desarrollado para fines académicos desarrollado por ing Boris Salleg mailto:borisalleg@gmail.com 2026

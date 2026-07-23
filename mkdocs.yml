@@ -1,0 +1,132 @@
+site_name: Visualización de Información
+site_description: >-
+  Material del curso "Visualización de Información" - Especialización en
+  Analítica y Big Data, IUDigital de Antioquia.
+site_author: IUDigital de Antioquia
+copyright: >-
+  &copy; 2026 IUDigital de Antioquia - Especialización en Analítica y Big Data
+
+# ---------------------------------------------------------------------------
+# Repositorio (ajustar cuando se cree el remoto en GitHub)
+# ---------------------------------------------------------------------------
+repo_name: iudigital/visualizacion-informacion
+repo_url: https://github.com/iudigital/visualizacion-informacion
+edit_uri: edit/main/docs/
+
+# ---------------------------------------------------------------------------
+# Tema
+# ---------------------------------------------------------------------------
+theme:
+  name: material
+  language: es
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.action.edit
+    - toc.follow
+
+# ---------------------------------------------------------------------------
+# Plugins
+# ---------------------------------------------------------------------------
+plugins:
+  - search:
+      lang: es
+
+# ---------------------------------------------------------------------------
+# Extensiones de Markdown
+# ---------------------------------------------------------------------------
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+# ---------------------------------------------------------------------------
+# Extras
+# ---------------------------------------------------------------------------
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/iudigital
+  generator: false
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# ---------------------------------------------------------------------------
+# Navegación
+# ---------------------------------------------------------------------------
+nav:
+  - Inicio: index.md
+  - Unidad 1 - Conceptos Básicos:
+      - unidad-1-conceptos-basicos/index.md
+      - Conceptos teóricos y fundamentos: unidad-1-conceptos-basicos/01-conceptos-teoricos-fundamentos.md
+      - Tipos de visualización: unidad-1-conceptos-basicos/02-tipos-de-visualizacion.md
+      - Visualización dinámica de datos: unidad-1-conceptos-basicos/03-visualizacion-dinamica-de-datos.md
+  - Unidad 2 - Herramientas de Visualización:
+      - unidad-2-herramientas/index.md
+      - Cuadros de mando: unidad-2-herramientas/01-cuadros-de-mando.md
+      - Visualización y acceso público: unidad-2-herramientas/02-visualizacion-acceso-publico.md
+      - Librerías de visualización: unidad-2-herramientas/03-librerias-de-visualizacion.md
+      - Visualizaciones con mapas: unidad-2-herramientas/04-visualizaciones-con-mapas.md
+  - Unidad 3 - Geovisualización:
+      - unidad-3-geovisualizacion/index.md
+      - Mapas coropléticos: unidad-3-geovisualizacion/01-mapas-coropleticos.md
+      - Mapas de densidad: unidad-3-geovisualizacion/02-mapas-de-densidad.md
+      - Interpolación espacial: unidad-3-geovisualizacion/03-interpolacion-espacial.md
